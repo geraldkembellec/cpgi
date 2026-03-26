@@ -61,9 +61,9 @@ Ces choix relèvent de votre stratégie projet.
 
 ## Articulation avec les autres enseignements
 
-Certains exercices seront réalisés en collaboration avec le [Crépac](https://portaildoc-intd.cnam.fr/) et Christelle. Ils participent à la structuration méthodologique du projet.
+Certains exercices seront réalisés en collaboration avec le [Crépac](https://portaildoc-intd.cnam.fr/) et Christelle Magdelaine, sa responsable. Ils participent à la structuration méthodologique du projet.
 
-Les enseignements d’Illan Obadia sont centrés sur l’écosystème *SharePoint*. Ils correspondent à une approche réaliste de déploiement en environnement organisationnel standardisé, typique d’une PME ou d’une grande entreprise.
+Les enseignements d’[Illan Obadia](https://www.linkedin.com/in/illan-marc-obadia 'KM chez MGEN') sont centrés sur l’écosystème *SharePoint*. Ils correspondent à une approche réaliste de déploiement en environnement organisationnel standardisé, typique d’une PME ou d’une grande entreprise.
 
 Votre travail consiste également à comparer :
 - une solution pré-packagée d’entreprise,

@@ -7,8 +7,8 @@ Dans cette unité d’enseignement, votre travail consiste à passer d’une ana
 Le premier livrable attendu est un cahier des charges technique complet, circonstancié et argumenté.
 
 Il devra notamment comporter :
-- une architecture technique explicitée (structure documentaire, gestion des droits, sécurité, accès distant, archivage) ;
-- des scénarios d’implémentation possibles ;
+- une architecture technique explicitée (structure des données qui sous-tendent la *complexité* info-documentaire, gestion des droits, sécurité, accès distant, archivage et potentielement *versioning* ) ;
+- des scénarii d’implémentation possibles ;
 - plusieurs options technologiques lorsque cela est pertinent ;
 - une planification projet structurée ;
 - une analyse des ressources ;

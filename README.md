@@ -52,7 +52,7 @@ L’objectif n’est pas de produire un système complet, mais une preuve argume
 
 L’environnement principal proposé repose sur un serveur web local (je vous montrerai [MAMP](https://www.mamp.info/en/downloads/ 'Téléchargez MAMP')). 
 Toutefois, vous êtes libres de vos choix, vous pouvez utiliser :
-- une solution d’hébergement gratuite en ligne ;
+- une [solution d’hébergement gratuite en ligne](https://lesbases.anct.gouv.fr/ressources/hebergeur-php-et-mysql-gratuit) ;
 - une base de données distante ;
 - un environnement PHP mutualisé.
 

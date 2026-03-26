@@ -31,9 +31,9 @@ Dans mes séances, vous manipulerez des briques techniques élémentaires de sys
 - circulation de l’information ;
 - architecture simple de services documentaires.
 
-Ces éléments sont fournis comme ressources mobilisables, non comme solutions imposées, certains sont redondants dans le cadre du projet, d'autres concourent à un *continuum* informationnel depuis les gisement de donnée jusqu'à la connaissance .
+Ces éléments sont fournis comme ressources mobilisables, non comme solutions imposées, certains sont redondants dans le cadre du projet, d'autres concourent à un *continuum* informationnel depuis les gisement de donnée jusqu'à la réalisation d'un système infodocumentaire stabilisé.
 
-Je ne proposerai volontairement pas de modélisation directement appliquée au cas *Wooden Home*. En revanche, les exemples resteront situés dans le champ des systèmes d’information documentaires d’entreprise.
+Je ne proposerai volontairement pas d'exercice de modélisation directement appliquée au cas *Wooden Home*. En revanche, les exemples resteront situés dans le champ des systèmes d’information documentaires d’entreprise.
 
 Une partie du travail consiste en imaginer et effectuer la transposition.
 

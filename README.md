@@ -1,2 +1,1 @@
-# cpgi
-Plateforme de soutien au Cours CPGi
+vous êtes libres de vos choix

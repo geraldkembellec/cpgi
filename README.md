@@ -8,9 +8,9 @@ Le premier livrable attendu est un cahier des charges technique complet, circons
 
 Il devra notamment comporter :
 - une architecture technique explicitée (structure des données qui sous-tendent la *complexité* info-documentaire, gestion des droits, sécurité, accès distant, archivage et potentielement *versioning* ) ;
-- des scénarii d’implémentation possibles ;
+- des *scenarii* d’implémentation possibles ;
 - plusieurs options technologiques lorsque cela est pertinent ;
-- une planification projet structurée ;
+- une planification projet structurée (avec Gannt);
 - une analyse des ressources ;
 - une stratégie de tests et de recette ;
 - une gestion des risques ;
@@ -18,7 +18,7 @@ Il devra notamment comporter :
 - une budgétisation globale ;
 - une stratégie de communication projet.
 
-Ce document constitue un livrable d’ingénierie. Il ne s’agit ni d’un rapport descriptif ni d’une synthèse théorique.
+Ce document constitue un livrable d’ingénierie. Il ne s’agit ni d’un rapport descriptif et **encore moins d’une synthèse théorique** (vous aurez tout votre mémoire de fin d'études pour vous épanouir dans cet exercice).
 
 ### Positionnement pédagogique de l’enseignement technique
 
@@ -31,7 +31,7 @@ Dans mes séances, vous manipulerez des briques techniques élémentaires de sys
 - circulation de l’information ;
 - architecture simple de services documentaires.
 
-Ces éléments sont fournis comme ressources mobilisables, non comme solutions imposées.
+Ces éléments sont fournis comme ressources mobilisables, non comme solutions imposées, certains sont redondants dans le cadre du projet, d'autres concourent à un *continuum* informationnel depuis les gisement de donnée jusqu'à la connaissance .
 
 Je ne proposerai volontairement pas de modélisation directement appliquée au cas *Wooden Home*. En revanche, les exemples resteront situés dans le champ des systèmes d’information documentaires d’entreprise.
 

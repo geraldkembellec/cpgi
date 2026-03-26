@@ -61,7 +61,7 @@ Ces choix relèvent de votre stratégie projet.
 
 ## Articulation avec les autres enseignements
 
-Certains exercices seront réalisés en collaboration avec le Crépac et Christelle. Ils participent à la structuration méthodologique du projet.
+Certains exercices seront réalisés en collaboration avec le [Crépac](https://portaildoc-intd.cnam.fr/) et Christelle. Ils participent à la structuration méthodologique du projet.
 
 Les enseignements d’Illan Obadia sont centrés sur l’écosystème *SharePoint*. Ils correspondent à une approche réaliste de déploiement en environnement organisationnel standardisé, typique d’une PME ou d’une grande entreprise.
 

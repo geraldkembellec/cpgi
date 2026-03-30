@@ -10,7 +10,7 @@ Il devra notamment comporter :
 - une architecture technique explicitée (structure des données qui sous-tendent la *complexité* info-documentaire, gestion des droits, sécurité, accès distant, archivage et potentielement *versioning* ) ;
 - des *scenarii* d’implémentation possibles ;
 - plusieurs options technologiques lorsque cela est pertinent ;
-- une planification projet structurée (avec Gannt);
+- une planification projet structurée (avec [Gantt](https://en.wikipedia.org/wiki/Gantt_chart));
 - une analyse des ressources ;
 - une stratégie de tests et de recette ;
 - une gestion des risques ;

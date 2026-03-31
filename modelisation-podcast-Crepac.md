@@ -59,15 +59,13 @@ Vous devez produire successivement :
 ### 1. Un modèle conceptuel des données (MCD)
 
 Votre MCD devra :
-```markdown
 - identifier les entités pertinentes ;
 - définir leurs attributs ;
 - identifier les associations ;
 - préciser les cardinalités ;
 - respecter les conventions Merise.
-```
+
 Le modèle devra permettre de représenter :
-```
 - un podcast avec plusieurs intervenants ;
 - un intervenant participant à plusieurs podcasts ;
 - un podcast appartenant à plusieurs collections ;
@@ -76,7 +74,7 @@ Le modèle devra permettre de représenter :
 - un podcast indexé par plusieurs mots-clés ;
 - un flux RSS contenant plusieurs podcasts ;
 - deux types de flux éditoriaux distincts (dont le flux INTD).
-```
+
 ### 2. Un modèle logique des données (MLD)
 
 À partir de votre MCD, vous produirez un MLD relationnel comprenant :

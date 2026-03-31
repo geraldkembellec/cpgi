@@ -60,6 +60,7 @@ Vous devez produire successivement :
 ### 1. Un modèle conceptuel des données (MCD)
 
 Votre MCD devra :
+``
 	•	identifier les entités pertinentes ;
 	•	définir leurs attributs ;
 	•	identifier les associations ;

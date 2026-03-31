@@ -112,21 +112,21 @@ associations ;
 cardinalités.
 
 #### Partie 2. Un schéma MLD comprenant :
-la liste des tables ;
-leurs attributs ;
-les clés primaires ;
-les clés étrangères ;
-les tables d’association issues des relations n–n.
+- la liste des tables ;
+- leurs attributs ;
+- les clés primaires ;
+- les clés étrangères ;
+- les tables d’association issues des relations n–n.
 
 ### Présentation attendue sous forme :
 soit d’un schéma relationnel,
 soit d’une notation tabulaire normalisée.
 
-
 ### Question complémentaire (approfondissement)
 On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)
 On attend ici une mise en relation explicite entre structure documentaire et structure [XML RSS](https://aide.podcloud.fr/question/comment-ca-marche-un-podcast-cest-quoi-un-flux-rss/) (ça sera un autre exercice).
 Expliquez en quelques lignes comment votre modèle permettrait de générer automatiquement les éléments suivants d’un flux RSS :
+```xml
 <channel>
 <item>
 <title>
@@ -134,5 +134,6 @@ Expliquez en quelques lignes comment votre modèle permettrait de générer auto
 <pubDate>
 <enclosure>
 <category>
+```
 On aura ici une bas pour l'exercie de XML.
 

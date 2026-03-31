@@ -9,7 +9,10 @@ Ces podcasts relèvent de deux logiques éditoriales :
 - un flux INTD, comprenant des interventions d’enseignants, ingénieurs, personnels administratifs ou invités extérieurs ;
 - d’autres séries documentaires thématiques produites par le Crépac.
 
-Les fichiers (MP3 ou MPEG) seront hébergés sur [le média serveur du Cnam pour le stockage pérenne](https://mediaserver.lecnam.net/channels/musee-des-arts-et-metiers)
+Les fichiers (MP3 ou MPEG) seront hébergés sur [le média serveur du Cnam pour le stockage pérenne](https://mediaserver.lecnam.net/channels/musee-des-arts-et-metiers). Dans Mocodo, une possibilié de m'attribuer que quelques valeurs possibles peut être présentée ainsi : 
+```SQL
+Prof: id_prof, nom, prenom, genre[enum('h','f','NSP')]
+```
 
 L’objectif est de concevoir un modèle de données structuré permettant :
 - la description documentaire des podcasts ;

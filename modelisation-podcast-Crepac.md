@@ -63,11 +63,11 @@ Vous devez produire successivement :
 
 Votre MCD devra :
 `
-	- identifier les entités pertinentes ;
-	- définir leurs attributs ;
-	- identifier les associations ;
-	- préciser les cardinalités ;
- 	- respecter les conventions Merise.
+`- identifier les entités pertinentes ;
+ - définir leurs attributs ;
+ - identifier les associations ;
+ - préciser les cardinalités ;
+ - respecter les conventions Merise.
 `
 Le modèle devra permettre de représenter :
 un podcast avec plusieurs intervenants ;

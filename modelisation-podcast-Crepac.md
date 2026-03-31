@@ -32,14 +32,14 @@ Cet exercice vise à :
 Le Crépac publie régulièrement des podcasts audio ou vidéo produits dans le cadre de ses activités pédagogiques et scientifiques.
 
 Chaque podcast possède :
-	•	un titre ;
-	•	un résumé ;
-	•	une date de publication ;
-	•	une durée ;
-	•	une langue ;
-	•	un format technique (MP3 ou MPEG) ;
-	•	une URL de diffusion sur le média serveur ;
-	•	éventuellement une vignette illustrative.
+- un titre ;
+- un résumé ;
+- une date de publication ;
+- une durée ;
+- une langue ;
+- un format technique (MP3 ou MPEG) ;
+- une URL de diffusion sur le média serveur ;
+- éventuellement une vignette illustrative.
 
 Un podcast peut :
 	•	comporter un ou plusieurs intervenants ;

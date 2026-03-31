@@ -1,4 +1,12 @@
 # Exercice de modélisation Merise
+
+## Objectifs pédagogiques
+Cet exercice vise à :
+- identifier les entités d’un système documentaire audiovisuel ;
+- produire un modèle conceptuel de données (MCD) conforme à Merise ;
+- traduire ce modèle en modèle logique de données (MLD) relationnel ;
+- préparer la génération automatisée ultérieure d’un flux RSS documentaire.
+- 
 ## Conception d’un système de gestion et de diffusion de podcasts documentaires pour le Crépac (INTD–Cnam)
 
 ### Contexte
@@ -19,16 +27,8 @@ L’objectif est de concevoir un modèle de données structuré permettant :
 - leur indexation ;
 - leur organisation en collections ;
 - leur diffusion via flux RSS.
-
-## Objectifs pédagogiques
-Cet exercice vise à :
-- identifier les entités d’un système documentaire audiovisuel ;
-- produire un modèle conceptuel de données (MCD) conforme à Merise ;
-- traduire ce modèle en modèle logique de données (MLD) relationnel ;
-- préparer la génération automatisée ultérieure d’un flux RSS documentaire.
-
+  
 ## Description du système à modéliser
-
 Le Crépac publie régulièrement des podcasts audio ou vidéo produits dans le cadre de ses activités pédagogiques et scientifiques.
 
 Chaque podcast possède :

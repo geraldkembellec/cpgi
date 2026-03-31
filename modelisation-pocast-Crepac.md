@@ -1,21 +1,17 @@
 # Exercice de modélisation Merise
 ## Conception d’un système de gestion et de diffusion de podcasts documentaires pour le Crépac (INTD–Cnam)
 
-⸻
+### Contexte
 
-Contexte
+Christelle Magdelaine souhaite mettre en place une série de podcasts documentaires audio et vidéo destinés à être diffusés dans le [portail documentaire de l’INTD](https://portaildoc-intd.cnam.fr/ListRecord.htm?list=table&table=3&type=Podcasts).
 
-Christelle Magdelaine souhaite mettre en place une série de podcasts documentaires audio et vidéo destinés à être diffusés dans le portail documentaire de l’INTD :
-
-Portail documentaire INTD-Cnam podcasts
+### Portail documentaire INTD-Cnam podcasts
 
 Ces podcasts relèvent de deux logiques éditoriales :
 	•	un flux INTD, comprenant des interventions d’enseignants, ingénieurs, personnels administratifs ou invités extérieurs ;
 	•	d’autres séries documentaires thématiques produites par le Crépac.
 
-Les fichiers médias (MP3 ou MPEG) sont hébergés sur le média serveur institutionnel :
-
-Media server du Cnam
+Les fichiers (MP3 ou MPEG) seront hébergés sur [le média serveur du Cnam pour le stockage pérenne](https://mediaserver.lecnam.net/channels/musee-des-arts-et-metiers)
 
 L’objectif est de concevoir un modèle de données structuré permettant :
 	•	la description documentaire des podcasts ;
@@ -23,9 +19,7 @@ L’objectif est de concevoir un modèle de données structuré permettant :
 	•	leur organisation en collections ;
 	•	leur diffusion via flux RSS.
 
-⸻
-
-Objectifs pédagogiques
+## Objectifs pédagogiques
 
 Cet exercice vise à :
 	•	identifier les entités d’un système documentaire audiovisuel ;
@@ -33,9 +27,7 @@ Cet exercice vise à :
 	•	traduire ce modèle en modèle logique de données (MLD) relationnel ;
 	•	préparer la génération automatisée d’un flux RSS documentaire.
 
-⸻
-
-Description du système à modéliser
+## Description du système à modéliser
 
 Le Crépac publie régulièrement des podcasts audio ou vidéo produits dans le cadre de ses activités pédagogiques et scientifiques.
 
@@ -57,20 +49,15 @@ Un podcast peut :
 	•	être diffusé dans un flux RSS.
 
 Un intervenant peut participer à plusieurs podcasts.
-
 Un événement peut produire plusieurs podcasts.
-
 Certaines capsules peuvent être indépendantes de tout événement.
-
 Un flux RSS contient plusieurs podcasts.
 
-⸻
-
-Travail demandé
+## Travail demandé
 
 Vous devez produire successivement :
 
-1. Un modèle conceptuel des données (MCD)
+### 1. Un modèle conceptuel des données (MCD)
 
 Votre MCD devra :
 	•	identifier les entités pertinentes ;
@@ -89,9 +76,7 @@ Le modèle devra permettre de représenter :
 	•	un flux RSS contenant plusieurs podcasts ;
 	•	deux types de flux éditoriaux distincts (dont le flux INTD).
 
-⸻
-
-2. Un modèle logique des données (MLD)
+### 2. Un modèle logique des données (MLD)
 
 À partir de votre MCD, vous produirez un MLD relationnel comprenant :
 	•	les tables ;
@@ -102,9 +87,7 @@ Le modèle devra permettre de représenter :
 
 Le passage MCD → MLD devra être explicitement justifié.
 
-⸻
-
-Contraintes techniques à intégrer dans la modélisation
+### Contraintes techniques à intégrer dans la modélisation
 
 Votre modèle devra permettre de représenter :
 	•	la localisation pérenne des fichiers médias sur le media server du Cnam ;
@@ -113,40 +96,32 @@ Votre modèle devra permettre de représenter :
 	•	l’indexation par mots-clés ;
 	•	la génération automatisable d’un flux RSS.
 
-⸻
+## Production attendue
 
-Production attendue
+### Votre rendu comprendra :
 
-Votre rendu comprendra :
-
-Partie 1
-
-Un diagramme MCD lisible comportant :
+#### Partie 1. Un diagramme MCD lisible  comportant :
 	•	entités ;
 	•	attributs ;
 	•	identifiants ;
 	•	associations ;
 	•	cardinalités.
 
-⸻
-
-Partie 2
-
-Un schéma MLD comprenant :
+#### Partie 2. Un schéma MLD comprenant :
 	•	la liste des tables ;
 	•	leurs attributs ;
 	•	les clés primaires ;
 	•	les clés étrangères ;
 	•	les tables d’association issues des relations n–n.
 
-Présentation attendue sous forme :
+### Présentation attendue sous forme :
 	•	soit d’un schéma relationnel,
 	•	soit d’une notation tabulaire normalisée.
 
-⸻
 
-Question complémentaire (approfondissement)
-
+### Question complémentaire (approfondissement)
+On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)
+On attend ici une mise en relation explicite entre structure documentaire et structure [XML RSS](https://aide.podcloud.fr/question/comment-ca-marche-un-podcast-cest-quoi-un-flux-rss/) (ça sera un autre exercice).
 Expliquez en quelques lignes comment votre modèle permettrait de générer automatiquement les éléments suivants d’un flux RSS :
 	•	<channel>
 	•	<item>
@@ -155,5 +130,5 @@ Expliquez en quelques lignes comment votre modèle permettrait de générer auto
 	•	<pubDate>
 	•	<enclosure>
 	•	<category>
+On aura ici une bas pour l'exercie de XML.
 
-On attend ici une mise en relation explicite entre structure documentaire et structure XML RSS.

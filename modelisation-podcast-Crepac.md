@@ -42,15 +42,17 @@ Chaque podcast possède :
 - éventuellement une vignette illustrative.
 
 Un podcast peut :
-	•	comporter un ou plusieurs intervenants ;
-	•	être rattaché à un événement (conférence, séminaire, journée d’étude, soutenance) ;
-	•	appartenir à une ou plusieurs collections ;
-	•	être indexé par des mots-clés ;
-	•	être diffusé dans un flux RSS.
+- comporter un ou plusieurs intervenants ;
+- être rattaché à un événement (conférence, séminaire, journée d’étude, soutenance) ;
+- appartenir à une ou plusieurs collections ;
+- être indexé par des mots-clés ;
+- être diffusé dans un flux RSS.
 
-Un intervenant peut participer à plusieurs podcasts.
-Un événement peut produire plusieurs podcasts.
-Certaines capsules peuvent être indépendantes de tout événement.
+Un intervenant peut :
+- participer à plusieurs podcasts.
+- Un événement peut produire plusieurs podcasts.
+
+Certaines capsules de podcat peuvent être indépendantes de tout événement.
 Un flux RSS contient plusieurs podcasts.
 
 ## Travail demandé
@@ -61,75 +63,75 @@ Vous devez produire successivement :
 
 Votre MCD devra :
 `
-	•	identifier les entités pertinentes ;
-	•	définir leurs attributs ;
-	•	identifier les associations ;
-	•	préciser les cardinalités ;
-	•	respecter les conventions Merise.
+	- identifier les entités pertinentes ;
+	- définir leurs attributs ;
+	- identifier les associations ;
+	- préciser les cardinalités ;
+ 	- respecter les conventions Merise.
 `
 Le modèle devra permettre de représenter :
-	•	un podcast avec plusieurs intervenants ;
-	•	un intervenant participant à plusieurs podcasts ;
-	•	un podcast appartenant à plusieurs collections ;
-	•	une collection contenant plusieurs podcasts ;
-	•	un podcast associé ou non à un événement ;
-	•	un podcast indexé par plusieurs mots-clés ;
-	•	un flux RSS contenant plusieurs podcasts ;
-	•	deux types de flux éditoriaux distincts (dont le flux INTD).
+un podcast avec plusieurs intervenants ;
+un intervenant participant à plusieurs podcasts ;
+un podcast appartenant à plusieurs collections ;
+une collection contenant plusieurs podcasts ;
+un podcast associé ou non à un événement ;
+un podcast indexé par plusieurs mots-clés ;
+un flux RSS contenant plusieurs podcasts ;
+deux types de flux éditoriaux distincts (dont le flux INTD).
 
 ### 2. Un modèle logique des données (MLD)
 
 À partir de votre MCD, vous produirez un MLD relationnel comprenant :
-	•	les tables ;
-	•	les clés primaires ;
-	•	les clés étrangères ;
-	•	les tables d’association ;
-	•	les contraintes d’intégrité référentielle.
+les tables ;
+les clés primaires ;
+les clés étrangères ;
+les tables d’association ;
+les contraintes d’intégrité référentielle.
 
 Le passage MCD → MLD devra être explicitement justifié.
 
 ### Contraintes techniques à intégrer dans la modélisation
 
 Votre modèle devra permettre de représenter :
-	•	la localisation pérenne des fichiers médias sur le media server du Cnam ;
-	•	la coexistence de podcasts audio et vidéo ;
-	•	la structuration en collections documentaires ;
-	•	l’indexation par mots-clés ;
-	•	la génération automatisable d’un flux RSS.
+la localisation pérenne des fichiers médias sur le media server du Cnam ;
+la coexistence de podcasts audio et vidéo ;
+la structuration en collections documentaires ;
+l’indexation par mots-clés ;
+la génération automatisable d’un flux RSS.
 
 ## Production attendue
 
 ### Votre rendu comprendra :
 
 #### Partie 1. Un diagramme MCD lisible  comportant :
-	•	entités ;
-	•	attributs ;
-	•	identifiants ;
-	•	associations ;
-	•	cardinalités.
+entités ;
+attributs ;
+identifiants ;
+associations ;
+cardinalités.
 
 #### Partie 2. Un schéma MLD comprenant :
-	•	la liste des tables ;
-	•	leurs attributs ;
-	•	les clés primaires ;
-	•	les clés étrangères ;
-	•	les tables d’association issues des relations n–n.
+la liste des tables ;
+leurs attributs ;
+les clés primaires ;
+les clés étrangères ;
+les tables d’association issues des relations n–n.
 
 ### Présentation attendue sous forme :
-	•	soit d’un schéma relationnel,
-	•	soit d’une notation tabulaire normalisée.
+soit d’un schéma relationnel,
+soit d’une notation tabulaire normalisée.
 
 
 ### Question complémentaire (approfondissement)
 On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)
 On attend ici une mise en relation explicite entre structure documentaire et structure [XML RSS](https://aide.podcloud.fr/question/comment-ca-marche-un-podcast-cest-quoi-un-flux-rss/) (ça sera un autre exercice).
 Expliquez en quelques lignes comment votre modèle permettrait de générer automatiquement les éléments suivants d’un flux RSS :
-	•	<channel>
-	•	<item>
-	•	<title>
-	•	<description>
-	•	<pubDate>
-	•	<enclosure>
-	•	<category>
+<channel>
+<item>
+<title>
+<description>
+<pubDate>
+<enclosure>
+<category>
 On aura ici une bas pour l'exercie de XML.
 

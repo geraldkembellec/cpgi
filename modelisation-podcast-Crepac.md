@@ -130,6 +130,6 @@ Expliquez en quelques lignes comment votre modèle permettrait de générer auto
 <enclosure>
 <category>
 ```
-![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png)
+![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png){: .floatright}
 On aura ici une base pour l'exercice de XML.
 ![flux rss](https://img.ausha.co/cb:-U1P~1ddd7/w:781/h:184/q:mauto/f:best/https://www.ausha.co/wp-content/uploads/2021/05/Code-flux-rss-episode.png)

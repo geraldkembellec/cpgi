@@ -135,5 +135,8 @@ Expliquez en quelques lignes comment votre modèle permettrait de générer auto
 <enclosure>
 <category>
 ```
-On aura ici une bas pour l'exercie de XML.
+On aura ici une bas pour l'exercice de XML.
+
+
+[flux rss](https://img.ausha.co/cb:-U1P~1ddd7/w:781/h:184/q:mauto/f:best/https://www.ausha.co/wp-content/uploads/2021/05/Code-flux-rss-episode.png)
 

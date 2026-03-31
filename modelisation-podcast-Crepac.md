@@ -6,7 +6,7 @@ Cet exercice vise à :
 - produire un modèle conceptuel de données (MCD) conforme à Merise ;
 - traduire ce modèle en modèle logique de données (MLD) relationnel ;
 - préparer la génération automatisée ultérieure d’un flux RSS documentaire.
-- 
+
 ## Conception d’un système de gestion et de diffusion de podcasts documentaires pour le Crépac (INTD–Cnam)
 
 ### Contexte
@@ -52,15 +52,13 @@ Un intervenant peut :
 - participer à plusieurs podcasts.
 - Un événement peut produire plusieurs podcasts.
 
-Certaines capsules de podcat peuvent être indépendantes de tout événement.
+Certaines capsules de podcast peuvent être indépendantes de tout événement.
 Un flux RSS contient plusieurs podcasts.
 
 ## Travail demandé
-
 Vous devez produire successivement :
 
 ### 1. Un modèle conceptuel des données (MCD)
-
 Votre MCD devra :
 - identifier les entités pertinentes ;
 - définir leurs attributs ;

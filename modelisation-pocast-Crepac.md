@@ -8,24 +8,24 @@ Christelle Magdelaine souhaite mettre en place une série de podcasts documentai
 ### Portail documentaire INTD-Cnam podcasts
 
 Ces podcasts relèvent de deux logiques éditoriales :
-	•	un flux INTD, comprenant des interventions d’enseignants, ingénieurs, personnels administratifs ou invités extérieurs ;
-	•	d’autres séries documentaires thématiques produites par le Crépac.
+- un flux INTD, comprenant des interventions d’enseignants, ingénieurs, personnels administratifs ou invités extérieurs ;
+- d’autres séries documentaires thématiques produites par le Crépac.
 
 Les fichiers (MP3 ou MPEG) seront hébergés sur [le média serveur du Cnam pour le stockage pérenne](https://mediaserver.lecnam.net/channels/musee-des-arts-et-metiers)
 
 L’objectif est de concevoir un modèle de données structuré permettant :
-	•	la description documentaire des podcasts ;
-	•	leur indexation ;
-	•	leur organisation en collections ;
-	•	leur diffusion via flux RSS.
+- la description documentaire des podcasts ;
+- leur indexation ;
+- leur organisation en collections ;
+- leur diffusion via flux RSS.
 
 ## Objectifs pédagogiques
 
 Cet exercice vise à :
-	•	identifier les entités d’un système documentaire audiovisuel ;
-	•	produire un modèle conceptuel de données (MCD) conforme à Merise ;
-	•	traduire ce modèle en modèle logique de données (MLD) relationnel ;
-	•	préparer la génération automatisée d’un flux RSS documentaire.
+- identifier les entités d’un système documentaire audiovisuel ;
+- produire un modèle conceptuel de données (MCD) conforme à Merise ;
+- traduire ce modèle en modèle logique de données (MLD) relationnel ;
+- préparer la génération automatisée ultérieure d’un flux RSS documentaire.
 
 ## Description du système à modéliser
 

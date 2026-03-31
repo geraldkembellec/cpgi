@@ -62,13 +62,13 @@ Vous devez produire successivement :
 ### 1. Un modèle conceptuel des données (MCD)
 
 Votre MCD devra :
-`
-`- identifier les entités pertinentes ;
- - définir leurs attributs ;
- - identifier les associations ;
- - préciser les cardinalités ;
- - respecter les conventions Merise.
-`
+``markdown
+- identifier les entités pertinentes ;
+- définir leurs attributs ;
+- identifier les associations ;
+- préciser les cardinalités ;
+- respecter les conventions Merise.
+  `
 Le modèle devra permettre de représenter :
 un podcast avec plusieurs intervenants ;
 un intervenant participant à plusieurs podcasts ;

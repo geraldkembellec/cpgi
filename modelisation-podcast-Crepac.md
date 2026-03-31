@@ -68,7 +68,7 @@ Votre MCD devra :
 - identifier les associations ;
 - préciser les cardinalités ;
 - respecter les conventions Merise.
-  `
+``
 Le modèle devra permettre de représenter :
 un podcast avec plusieurs intervenants ;
 un intervenant participant à plusieurs podcasts ;

@@ -70,15 +70,16 @@ Votre MCD devra :
 - respecter les conventions Merise.
 ```
 Le modèle devra permettre de représenter :
-un podcast avec plusieurs intervenants ;
-un intervenant participant à plusieurs podcasts ;
-un podcast appartenant à plusieurs collections ;
-une collection contenant plusieurs podcasts ;
-un podcast associé ou non à un événement ;
-un podcast indexé par plusieurs mots-clés ;
-un flux RSS contenant plusieurs podcasts ;
-deux types de flux éditoriaux distincts (dont le flux INTD).
-
+```
+- un podcast avec plusieurs intervenants ;
+- un intervenant participant à plusieurs podcasts ;
+- un podcast appartenant à plusieurs collections ;
+- une collection contenant plusieurs podcasts ;
+- un podcast associé ou non à un événement ;
+- un podcast indexé par plusieurs mots-clés ;
+- un flux RSS contenant plusieurs podcasts ;
+- deux types de flux éditoriaux distincts (dont le flux INTD).
+```
 ### 2. Un modèle logique des données (MLD)
 
 À partir de votre MCD, vous produirez un MLD relationnel comprenant :

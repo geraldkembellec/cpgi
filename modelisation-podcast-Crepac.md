@@ -95,23 +95,23 @@ Votre modèle devra permettre de représenter :
 
 dans l'optique de la génération automatisable d’un flux RSS.
 
-## Production attendue
-### Votre rendu comprendra :
-#### Partie 1. Un diagramme MCD lisible  comportant :
+### Production attendue
+#### Votre rendu comprendra :
+##### Partie 1. Un diagramme MCD lisible  comportant :
 - entités ;
   - attributs ;
   - identifiants ;
 - associations ;
 - cardinalités.
 
-#### Partie 2. Un schéma MLD comprenant :
+##### Partie 2. Un schéma MLD comprenant :
 - la liste des tables ;
 - leurs attributs ;
 - les clés primaires ;
 - les clés étrangères ;
 - les tables d’association issues des relations n–n.
 
-### Présentation attendue sous forme :
+#### Présentation attendue sous forme :
 - soit d’un schéma relationnel,
 - soit d’une notation tabulaire normalisée.
 
@@ -120,6 +120,22 @@ dans l'optique de la génération automatisable d’un flux RSS.
 Transformer le MLD en en un MPD (Modèle Physique de Données) qui va s'intégrer dans la base via le SGBD.
 On va traduire chaque attribut de chaque table en un type de données, déclarer les clés primaires et étrangères.
 
+### Rendus dans la base de données
+#### Créer les tables dans MySQL
+#### Intégrer les attributs (champs) avec leurs types
+Pensez à déclarer :
+- Les clés primaires,
+- Les champs auto-incrémentés [A_I],
+- Les clés étrangères (Index)
+
+En mode concepteur :
+Réalisez les liaisons entre les clés étrangères et les clés primaires associées.
+
+NB, si ça ne marche pas vérifiez bien : 
+- Que les clés sont bien du __même__ type,
+- Que la clé étrangère est bien typée "index"
+
+#### Intégrer les 
 ### Question complémentaire (approfondissement à traiter ultérieurement)
 On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)
 On attend ici une mise en relation explicite entre structure documentaire et structure [XML RSS](https://aide.podcloud.fr/question/comment-ca-marche-un-podcast-cest-quoi-un-flux-rss/) (ça sera un autre exercice).
@@ -133,6 +149,6 @@ Expliquez en quelques lignes comment votre modèle permettrait de générer auto
   <enclosure>
   <category>
 ```
-![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png){width=50%}
+![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png)
 On aura ici une base pour l'exercice de XML.
 ![flux rss](https://img.ausha.co/cb:-U1P~1ddd7/w:781/h:184/q:mauto/f:best/https://www.ausha.co/wp-content/uploads/2021/05/Code-flux-rss-episode.png)

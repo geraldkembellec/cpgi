@@ -1,6 +1,6 @@
-# Exercice de modélisation Merise
-
-## Objectifs pédagogiques
+# Cas d'études "Podcast"
+## Lot 1 : Exercice de modélisation Merise
+### Objectifs pédagogiques
 Cet exercice vise à :
 - identifier les entités d’un système documentaire audiovisuel ;
 - produire un modèle conceptuel de données (MCD) conforme à Merise ;

@@ -1,3 +1,8 @@
+---
+title: "Cas d'études "Podcast"
+author: "Gérald KEMBELLEC"
+output: pdf_document
+---
 # Cas d'études "Podcast"
 ## Conception d’un système de gestion et de diffusion de podcasts documentaires pour le Crépac (INTD–Cnam)
 ### Contexte

@@ -1,4 +1,8 @@
 # Cas d'études "Podcast"
+## Conception d’un système de gestion et de diffusion de podcasts documentaires pour le Crépac (INTD–Cnam)
+### Contexte
+Christelle Magdelaine souhaite mettre en place une série de podcasts documentaires audio et vidéo destinés à être diffusés dans le [portail documentaire de l’INTD](https://portaildoc-intd.cnam.fr/ListRecord.htm?list=table&table=3&type=Podcasts).
+
 ## Lot 1 : Exercice de modélisation Merise
 ### Objectifs pédagogiques
 Cet exercice vise à :
@@ -6,12 +10,6 @@ Cet exercice vise à :
 - produire un modèle conceptuel de données (MCD) conforme à Merise ;
 - traduire ce modèle en modèle logique de données (MLD) relationnel ;
 - préparer la génération automatisée ultérieure d’un flux RSS documentaire.
-
-## Conception d’un système de gestion et de diffusion de podcasts documentaires pour le Crépac (INTD–Cnam)
-
-### Contexte
-Christelle Magdelaine souhaite mettre en place une série de podcasts documentaires audio et vidéo destinés à être diffusés dans le [portail documentaire de l’INTD](https://portaildoc-intd.cnam.fr/ListRecord.htm?list=table&table=3&type=Podcasts).
-
 ### Portail documentaire INTD-Cnam podcasts
 Ces podcasts relèvent de deux logiques éditoriales :
 - un flux INTD, comprenant des interventions d’enseignants, ingénieurs, personnels administratifs ou invités extérieurs ;
@@ -116,6 +114,11 @@ dans l'optique de la génération automatisable d’un flux RSS.
 ### Présentation attendue sous forme :
 - soit d’un schéma relationnel,
 - soit d’une notation tabulaire normalisée.
+
+## Lot 2 : Création de la base de données avec MAMP / EasyPHP / MySQL
+### Objectifs pédagogiques
+Transformer le MLD en en un MPD (Modèle Physique de Données) qui va s'intégrer dans la base via le SGBD.
+On va traduire chaque attribut de chaque table en un type de données, déclarer les clés primaires et étrangères.
 
 ### Question complémentaire (approfondissement à traiter ultérieurement)
 On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)

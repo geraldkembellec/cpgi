@@ -126,12 +126,12 @@ On attend ici une mise en relation explicite entre structure documentaire et str
 Expliquez en quelques lignes comment votre modèle permettrait de générer automatiquement les éléments suivants d’un flux RSS :
 ```xml
 <channel>
-<item>
-<title>
-<description>
-<pubDate>
-<enclosure>
-<category>
+  <item>
+  <title>
+  <description>
+  <pubDate>
+  <enclosure>
+  <category>
 ```
 ![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png)
 On aura ici une base pour l'exercice de XML.

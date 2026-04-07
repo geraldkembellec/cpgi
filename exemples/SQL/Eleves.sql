@@ -1,1 +1,15 @@
-
+INSERT INTO eleve 
+VALUES (1, 'Kembellec', 'Gérald'), 
+       (2, 'Gonzalez', 'Mauriet'), 
+       (3, 'Boukhalfa', 'Abdelfatah'), 
+       (4, 'Nunez', 'Tanya'), 
+       (5, 'Besnard', 'Loïc'), 
+       (6, 'Lacotte', 'Foulques'),
+       (7, 'Ghzala', 'Ryan'), 
+       (8, 'Reboul', 'David'), 
+       (9, 'Thiam', 'Mariama'), 
+       (10, 'Billy', 'Nicolas'), 
+       (11, 'Seck', 'Ndella'), 
+       (12, 'Gbokpehoun', 'Ariane'), 
+       (13, 'Madany', 'Trycia'), 
+       (14, 'Smail', 'Dihya');

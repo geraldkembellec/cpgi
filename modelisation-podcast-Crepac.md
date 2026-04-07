@@ -171,5 +171,7 @@ On aura ici une base pour l'exercice de XML.
 #### [1]
 Note 1 : ou autre comme [EasyPHP](https://www.easyphp.org/) sur Windows
 
-| Basic | Yes | Limited | Like
-| Pro   | Yes | Full    | Dislike
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |

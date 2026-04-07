@@ -142,8 +142,10 @@ NB, si ça ne marche pas vérifiez bien :
 ### Rendu 1 (7 avril):
 - Création de la base PodcastCrepac (encodage mb3, utf8, unicode, case insensitive)
 - Création de la première table "Podcast"
-- 
-|Id_Podcast|  Titre | Resumé | Date |Durée  |Formats_De_Fichier | Lien | Langue | Vignette | #Id_Evenement
+
+Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc officielle')
+| Id_Podcast |  Titre | Resumé | Date | Durée  | Formats_De_Fichier | Lien | Langue | Vignette | #Id_Evenement
+|  INT  | VARCHAR(?) |  VARCHAR(?) | DATE | INT / MEDIUMINT | VARCHAR(?) / ENUM?  | VARCHAR(?) | ENUM ? | INT 
 
 Réfléchir : type, taille, enum, date, durée, url
 

@@ -139,6 +139,14 @@ NB, si ça ne marche pas vérifiez bien :
 - Que les clés sont bien du __même__ type,
 - Que la clé étrangère est bien typée "index"
 
+### Rendu 1 (7 avril):
+- Création de la base PodcastCrepac (encodage mb3, utf8, unicode, case insensitive)
+- Création de la première table "Podcast"
+- 
+|Id_Podcast|  Titre | Resumé | Date |Durée  |Formats_De_Fichier | Lien | Langue | Vignette | #Id_Evenement
+
+Réfléchir : type, taille, enum, date, durée, url
+
 #### Intégrer les 
 ### Question complémentaire (approfondissement à traiter ultérieurement)
 On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)

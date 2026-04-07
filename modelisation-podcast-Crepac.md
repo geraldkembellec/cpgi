@@ -115,8 +115,9 @@ dans l'optique de la génération automatisable d’un flux RSS.
 - soit d’un schéma relationnel,
 - soit d’une notation tabulaire normalisée.
 
-### Lien Mocodo lot 1 stabilisé : 
-cf. [lien](https://www.mocodo.net/?mcd=eNqNUVFqxCAQ_d9TCGH_PIEfhZJtINCWpSz9LZIMu0J0xJiyvVFzjlys45oahVIWg5lx3sx7Pvd7jR32uNuJ23pBP9bDMo-CtX1KODtdlm8NBGhND1dwglVZnT2wPC46Pwh4xL6To6fSFqVTGvr0CQY0GB9YU0Ksyjvg7CB9oKavxmGAzis0AbllCRp1ctag09KPB2hUd1HgqPfRWum8urFUeTOJKZJy8D3610hsh0nQG4yTXuZ4Cdont8x_6OPsmZTRLs15ovq7OhvwoaPKHCHaPM4qQUS4Xafs-jj_ao7Xao0HRxNknFZmeTWa_7tq1BadX3maYboSfv3F_D7XMgJR8nF2JJsMas5eUZfsYb5IPKvL0bzTl4WI-gFbp_Pz 'Corrigé')
+### Liens Mocodo lot 1 stabilisé : 
+- [Modèle Conceptuel de Données](https://www.mocodo.net/?mcd=eNptUctqwzAQvOsr9uYWfIivvoU8wNAaE9pcSg-KtQkLsmRkqbh_X63lxC4tusyM9jEaVcaj-0IjjS-hUtVCc6ht94sfrWk9WQOikc5TSz26HIoaGqtaOfgJrzpinbMqkMMcNjUcoood8qRNce8B8ZB5_6rmjbzDFd9Lv1AQZTzi1fqdRm5MKIcXuqDWCKIyCsd__KXCaC1p3Pu4nlbmcMIhdJg2NuGiqZX87CgEh7xDmltAzsN10m-DInsnZ1IYybvTe7pewzC1nelm0Pu4NImTq2JxFbM56jCehgHEDNgWw9lTgnHqrH33eFDkrSMZ3_KBJnRPGXHyBrM8wzGh508OqRQ7GyOZvo7nLmyevhb2OLSOeiaLDGLb9_HL0dDfQNdl5Q86Rso9 "MCD")
+- [Modèle logique de données](https://www.mocodo.net/?mcd=eNqNUVFqxCAQ_d9TCGH_PIEfhZJtINCWpSz9LZIMu0J0xJiyvVFzjlys45oahVIWg5lx3sx7Pvd7jR32uNuJ23pBP9bDMo-CtX1KODtdlm8NBGhND1dwglVZnT2wPC46Pwh4xL6To6fSFqVTGvr0CQY0GB9YU0Ksyjvg7CB9oKavxmGAzis0AbllCRp1ctag09KPB2hUd1HgqPfRWum8urFUeTOJKZJy8D3610hsh0nQG4yTXuZ4Cdont8x_6OPsmZTRLs15ovq7OhvwoaPKHCHaPM4qQUS4Xafs-jj_ao7Xao0HRxNknFZmeTWa_7tq1BadX3maYboSfv3F_D7XMgJR8nF2JJsMas5eUZfsYb5IPKvL0bzTl4WI-gFbp_Pz 'Corrigé')
 
 ## Lot 2 : Création de la base de données avec MAMP (ou autre [^1](^1) ) /  / MySQL
 ### Objectifs pédagogiques

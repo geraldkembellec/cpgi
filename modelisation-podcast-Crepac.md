@@ -118,7 +118,7 @@ dans l'optique de la génération automatisable d’un flux RSS.
 ### Lien Mocodo lot 1 stabilisé : 
 cf. [lien](https://www.mocodo.net/?mcd=eNqNUVFqxCAQ_d9TCGH_PIEfhZJtINCWpSz9LZIMu0J0xJiyvVFzjlys45oahVIWg5lx3sx7Pvd7jR32uNuJ23pBP9bDMo-CtX1KODtdlm8NBGhND1dwglVZnT2wPC46Pwh4xL6To6fSFqVTGvr0CQY0GB9YU0Ksyjvg7CB9oKavxmGAzis0AbllCRp1ctag09KPB2hUd1HgqPfRWum8urFUeTOJKZJy8D3610hsh0nQG4yTXuZ4Cdont8x_6OPsmZTRLs15ovq7OhvwoaPKHCHaPM4qQUS4Xafs-jj_ao7Xao0HRxNknFZmeTWa_7tq1BadX3maYboSfv3F_D7XMgJR8nF2JJsMas5eUZfsYb5IPKvL0bzTl4WI-gFbp_Pz 'Corrigé')
 
-## Lot 2 : Création de la base de données avec MAMP (ou autre [^1]) /  / MySQL
+## Lot 2 : Création de la base de données avec MAMP (ou autre [^1](^1) ) /  / MySQL
 ### Objectifs pédagogiques
 Transformer le MLD en en un MPD (Modèle Physique de Données) qui va s'intégrer dans la base via le SGBD.
 On va traduire chaque attribut de chaque table en un type de données, déclarer les clés primaires et étrangères.

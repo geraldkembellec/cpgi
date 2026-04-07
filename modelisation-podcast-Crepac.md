@@ -144,8 +144,10 @@ NB, si ça ne marche pas vérifiez bien :
 - Création de la première table "Podcast"
 
 Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc officielle')
-| Id_Podcast |  Titre | Resumé | Date | Durée  | Formats_De_Fichier | Lien | Langue | Vignette | #Id_Evenement
-|  INT  | VARCHAR(?) |  VARCHAR(?) | DATE | INT / MEDIUMINT | VARCHAR(?) / ENUM?  | VARCHAR(?) | ENUM ? | INT 
+
+|  Id_Podcast  | Titre          |  Resumé       |  Date  | Durée          | Formats_De_Fichier | Lien       | Langue | Vignette   | #Id_Evenement
+| :---         |     :---:      |  :---:        |  :---: | :---:          |        :---:       | :---:      |  :---: |  :---:     |  ---:
+|  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT / MEDIUMINT| VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? | VARCHAR(?) |  INT 
 
 Réfléchir : type, taille, enum, date, durée, url
 
@@ -171,7 +173,3 @@ On aura ici une base pour l'exercice de XML.
 #### [1]
 Note 1 : ou autre comme [EasyPHP](https://www.easyphp.org/) sur Windows
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |

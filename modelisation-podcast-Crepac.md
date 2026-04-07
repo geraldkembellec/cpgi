@@ -145,7 +145,7 @@ NB, si ça ne marche pas vérifiez bien :
 
 Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc officielle')
 
-|  Id_Podcast  | Titre          |  Resumé       |  Date  | Durée         | [Formats_De_Fichier](https://cedric.cnam.fr/sys/crolard/enseignement/NFA040/TP17.pdf) | Lien       | Langue | Vignette   | #Id_Evenement
+|  Id_Podcast  | Titre          |  Resumé       |  Date  | Durée         | [Format](https://cedric.cnam.fr/sys/crolard/enseignement/NFA040/TP17.pdf) | Lien       | Langue | Vignette   | #Id_Evenement
 | :---         |     :---:      |  :---:        |  :---: | :---:         |        :---:       | :---:      |  :---: |  :---:     |  ---:
 |  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? | VARCHAR(?) |  INT 
 

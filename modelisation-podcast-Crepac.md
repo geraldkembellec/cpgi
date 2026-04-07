@@ -139,7 +139,7 @@ NB, si ça ne marche pas vérifiez bien :
 - Que les clés sont bien du __même__ type,
 - Que la clé étrangère est bien typée "index"
 
-### Rendu 1 (7 avril):
+### Rendu 1 (7 - 8 avril):
 - Création de la base PodcastCrepac (encodage mb3, utf8, unicode, case insensitive)
 - Création de la première table "Podcast"
 

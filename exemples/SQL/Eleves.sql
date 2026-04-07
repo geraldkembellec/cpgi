@@ -1,4 +1,4 @@
-INSERT INTO eleve 
+INSERT INTO Eleves 
 VALUES (1, 'Kembellec', 'Gérald'), 
        (2, 'Gonzalez', 'Mauriet'), 
        (3, 'Boukhalfa', 'Abdelfatah'), 

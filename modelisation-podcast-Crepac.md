@@ -147,7 +147,7 @@ Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc of
 
 |  Id_Podcast  | Titre          |  Resumé       |  Date  | Durée         | [Format](https://cedric.cnam.fr/sys/crolard/enseignement/NFA040/TP17.pdf) | Lien       | Langue | Vignette   | #Id_Evenement
 | :---         |     :---:      |  :---:        |  :---: | :---:         |        :---:       | :---:      |  :---: |  :---:     |  ---:
-|  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT (nb entier en secondes) / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? (ISO 639-1) | VARCHAR(?) |  INT 
+|  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT (nb entier en secondes) / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? ([ISO 639-1](https://github.com/geraldkembellec/cpgi/edit/main/modelisation-podcast-Crepac.md#langue-normalis%C3%A9e) ) | VARCHAR(?) |  INT 
 
 Réfléchir : type, taille, enum, date, durée, url
 

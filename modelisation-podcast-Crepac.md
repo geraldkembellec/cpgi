@@ -147,9 +147,13 @@ Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc of
 
 |  Id_Podcast  | Titre          |  Resumé       |  Date  | Durée         | [Format](https://cedric.cnam.fr/sys/crolard/enseignement/NFA040/TP17.pdf) | Lien       | Langue | Vignette   | #Id_Evenement
 | :---         |     :---:      |  :---:        |  :---: | :---:         |        :---:       | :---:      |  :---: |  :---:     |  ---:
-|  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? | VARCHAR(?) |  INT 
+|  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT (nb entier en secondes) / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? | VARCHAR(?) |  INT 
 
 Réfléchir : type, taille, enum, date, durée, url
+
+> TIMESTAMP: It is also used for values that contain both date and time parts, and includes the time zone. TIMESTAMP has a range of 1970-01-01 00:00:01 UTC to 2038-01-19 03:14:07 UTC.
+
+TIME: Its values are in HH:MM:SS format (or HHH:MM:SS format for large hours values). TIME values may range from -838:59:59 to 838:59:59. The hours part may be so large because the TIME type can be used not only to represent a time of day (which must be less than 24 hours), but also elapsed time or a time interval between two events (which may be much greater than 24 hours, or even negative).
 
 #### Intégrer les 
 ### Question complémentaire (approfondissement à traiter ultérieurement)

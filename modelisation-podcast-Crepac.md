@@ -140,7 +140,7 @@ NB, si ça ne marche pas vérifiez bien :
 - Que la clé étrangère est bien __typée "index"__
 
 ### Rendu 1 (7 - 8 avril):
-- Création de la base PodcastCrepac (encodage -mb3- mb4 (l'encodage [mb3 est déprécié](https://dev.mysql.com/doc/refman/9.6/en/charset-unicode-utf8.html) - il ne sera bientôt plus supporté) , utf8, unicode, case insensitive)
+- Création de la base PodcastCrepac : encodage -mb3- mb4 (l'encodage [mb3 est déprécié](https://dev.mysql.com/doc/refman/9.6/en/charset-unicode-utf8.html) il ne sera bientôt plus supporté) , utf8, unicode, case insensitive)
 - Création de la première table "Podcast"
 
 Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc officielle')

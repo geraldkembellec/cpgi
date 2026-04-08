@@ -158,7 +158,8 @@ source : [stackoverflow](https://stackoverflow.com/questions/31761047/what-diffe
 #### Langue (normalisée)
 > langue : Norme ISO 639-1, ex **fr**, **en**, sources [Wikipédia](https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1), [site de l'ISO](https://www.iso.org/fr/iso-639-language-code.html "Documentation officielle")
 
-#### Intégrer les 
+Intégrer quelques entrées pour tester.
+
 ### Question complémentaire (approfondissement à traiter ultérieurement)
 On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)
 On attend ici une mise en relation explicite entre structure documentaire et structure [XML RSS](https://aide.podcloud.fr/question/comment-ca-marche-un-podcast-cest-quoi-un-flux-rss/) (ça sera un autre exercice).

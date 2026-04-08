@@ -147,12 +147,13 @@ Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc of
 
 |  Id_Podcast  | Titre          |  Resumé       |  Date  | Durée         | [Format](https://cedric.cnam.fr/sys/crolard/enseignement/NFA040/TP17.pdf) | Lien       | Langue | Vignette   | #Id_Evenement
 | :---         |     :---:      |  :---:        |  :---: | :---:         |        :---:       | :---:      |  :---: |  :---:     |  ---:
-|  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT (nb entier en secondes) / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? | VARCHAR(?) |  INT 
+|  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT (nb entier en secondes) / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? (ISO 639-1) | VARCHAR(?) |  INT 
 
 Réfléchir : type, taille, enum, date, durée, url
 
 > TIME: Its values are in HH:MM:SS format (or HHH:MM:SS format for large hours values). TIME values may range from -838:59:59 to 838:59:59. The hours part may be so large because the TIME type can be used not only to represent a time of day (which must be less than 24 hours), but also elapsed time or a time interval between two events (which may be much greater than 24 hours, or even negative).
-> source : [stackoverflow](https://stackoverflow.com/questions/31761047/what-difference-between-the-date-time-datetime-and-timestamp-types "Doc sur Stack overflow")
+source : [stackoverflow](https://stackoverflow.com/questions/31761047/what-difference-between-the-date-time-datetime-and-timestamp-types "Doc sur Stack overflow")
+> langue : Norme ISO 639-1, ex **fr**, **en**, sources [Wikipédia](https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1), [site de l'ISO](https://www.iso.org/fr/iso-639-language-code.html "Documentation officielle")
 
 #### Intégrer les 
 ### Question complémentaire (approfondissement à traiter ultérieurement)

@@ -151,9 +151,8 @@ Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc of
 
 Réfléchir : type, taille, enum, date, durée, url
 
-> TIMESTAMP: It is also used for values that contain both date and time parts, and includes the time zone. TIMESTAMP has a range of 1970-01-01 00:00:01 UTC to 2038-01-19 03:14:07 UTC.
-
-TIME: Its values are in HH:MM:SS format (or HHH:MM:SS format for large hours values). TIME values may range from -838:59:59 to 838:59:59. The hours part may be so large because the TIME type can be used not only to represent a time of day (which must be less than 24 hours), but also elapsed time or a time interval between two events (which may be much greater than 24 hours, or even negative).
+> TIME: Its values are in HH:MM:SS format (or HHH:MM:SS format for large hours values). TIME values may range from -838:59:59 to 838:59:59. The hours part may be so large because the TIME type can be used not only to represent a time of day (which must be less than 24 hours), but also elapsed time or a time interval between two events (which may be much greater than 24 hours, or even negative).
+> source : [stackoverflow](https://stackoverflow.com/questions/31761047/what-difference-between-the-date-time-datetime-and-timestamp-types "Doc sur Stack overflow")
 
 #### Intégrer les 
 ### Question complémentaire (approfondissement à traiter ultérieurement)

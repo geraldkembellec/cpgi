@@ -149,7 +149,7 @@ Aide : [Type des champs](https://www.w3schools.com/sql/sql_datatypes.asp 'Doc of
 | :---         |     :---:      |  :---:        |  :---: | :---:         |        :---:       | :---:      |  :---: |  :---:     |  ---:
 |  INT         | VARCHAR(?)     | VARCHAR(?)    |  DATE  | INT (nb entier en secondes) / TIME    | VARCHAR(?) / ENUM? | VARCHAR(?) | ENUM ? ([ISO 639-1](https://github.com/geraldkembellec/cpgi/edit/main/modelisation-podcast-Crepac.md#langue-normalis%C3%A9e) ) | VARCHAR(?) |  INT 
 
-Réfléchir : type, taille, enum, date, durée, url
+Réfléchir au typage : type, taille, enum, date, durée, url
 
 #### Durée (normalisée)
 > TIME: Its values are in HH:MM:SS format (or HHH:MM:SS format for large hours values). TIME values may range from -838:59:59 to 838:59:59. The hours part may be so large because the TIME type can be used not only to represent a time of day (which must be less than 24 hours), but also elapsed time or a time interval between two events (which may be much greater than 24 hours, or even negative).

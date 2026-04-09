@@ -187,4 +187,3 @@ On aura ici une base pour l'exercice de XML.
 ### Notes
 #### [1]
 Note 1 : ou autre comme [EasyPHP](https://www.easyphp.org/) sur Windows
-

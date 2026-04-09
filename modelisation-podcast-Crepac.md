@@ -160,10 +160,13 @@ source : [stackoverflow](https://stackoverflow.com/questions/31761047/what-diffe
 
 Intégrer quelques entrées pour tester.
 
-### Question complémentaire (approfondissement à traiter ultérieurement)
+## Lot 3 : Création d'un flux RSS
+### Comprendre le format XML
 On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)
+
 On attend ici une mise en relation explicite entre structure documentaire et structure [XML RSS](https://aide.podcloud.fr/question/comment-ca-marche-un-podcast-cest-quoi-un-flux-rss/) (ça sera un autre exercice).
-Expliquez en quelques lignes comment votre modèle permettrait de générer automatiquement les éléments suivants d’un flux RSS :
+
+Expliquez en quelques lignes comment votre modèle (celui de la base de données) permettrait de générer automatiquement les éléments suivants d’un flux RSS :
 ```xml
 <channel>
   <title>
@@ -180,6 +183,10 @@ Expliquez en quelques lignes comment votre modèle permettrait de générer auto
       <enclosure>
       <category>
 ```
+### Rendu 1 XML
+
+Produire (rédiger) un flux XML qui va présenter un canal, celui du Crépac, avec un lien vers deux médias, un mp3 et un mp4 de votre choix.
+
 ![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png)
 On aura ici une base pour l'exercice de XML.
 ![flux rss](https://img.ausha.co/cb:-U1P~1ddd7/w:781/h:184/q:mauto/f:best/https://www.ausha.co/wp-content/uploads/2021/05/Code-flux-rss-episode.png)

@@ -187,6 +187,15 @@ Expliquez en quelques lignes comment votre modèle (celui de la base de données
 
 Produire (rédiger) un flux XML qui va présenter un canal, celui du Crépac, avec un lien vers deux médias, un mp3 et un mp4 de votre choix.
 
+#### Il va vous falloir réfléchir à plusieurs questions :
+- Ou sont stockées les médias ?
+- Comment y accéder ?
+- Comment les décrire ?
+- Comment décrire le flux RSS ?
+- Comment publier les flux RSS ?
+- Comment lire le flux RSS ?
+
+
 ![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png)
 On aura ici une base pour l'exercice de XML.
 ![flux rss](https://img.ausha.co/cb:-U1P~1ddd7/w:781/h:184/q:mauto/f:best/https://www.ausha.co/wp-content/uploads/2021/05/Code-flux-rss-episode.png)

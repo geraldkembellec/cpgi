@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+	<channel>
+		<title>Portail documentaire du Crépac – INTD-Cnam</title>
+		<description>
+		Le Crépac est le centre de ressources pédagogiques et documentaires de l’INTD-Cnam. Il propose une sélection de conférences, événements scientifiques et ressources en sciences de l’information et de la documentation.
+		</description>
+		<link>http://portaildoc-intd.cnam.fr/</link>
+		<image>
+			<title>Portail documentaire du Crépac – INTD-Cnam</title>
+     		<link>http://portaildoc-intd.cnam.fr/</link>
+    	 	<url>https://intd.cnam.fr/medias/photo/portail-doc_1466686002308-jpg</url>
+   		 </image>
+
+		<item>
+			<title>Mettre en pratique le Knowledge Management : après-midi d’étude ADBS à l’INTD</title>
+			<description>
+			Demi-journée d’étude organisée par l’ADBS, l’INTD-Cnam et le laboratoire DICEN-IdF consacrée aux dispositifs de gestion des connaissances : cadres méthodologiques, retours d’expérience organisationnels, communautés de pratique et indicateurs d’évaluation du Knowledge Management.
+			</description>
+			<link>
+			https://adbs.fr/reseau/groupes/secteur-veille--recherche-sur-internet/bloquez-vos-agendas-14-avril-2026-apres-midi-detude-a-lintd-autour-du-km
+			</link>
+			<guid>
+			https://adbs.fr/reseau/groupes/secteur-veille--recherche-sur-internet/bloquez-vos-agendas-14-avril-2026-apres-midi-detude-a-lintd-autour-du-km
+			</guid>
+			<pubDate>Tue, 14 Apr 2026 13:30:00 +0100</pubDate>
+		</item>
+
+	</channel>
+</rss>

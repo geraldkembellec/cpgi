@@ -19,7 +19,9 @@
 	// chaque ligne est nommée "$ligne"
 	foreach ($resultat as $ligne) {
 		echo "<br>";
-	    echo $ligne['prenom'];
-	    
+	    // On affiche la valeur "prenom" de la ligne
+		echo $ligne['prenom'];
+		// On affiche toute la ligne "en vrac"
+		print_r($ligne);
 	}
 ?>

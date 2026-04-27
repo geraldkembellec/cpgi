@@ -180,10 +180,10 @@ Expliquez en quelques lignes comment votre modèle (celui de la base de données
     <lastBuildDate>
   <item>
     <title>
-      <description>
-      <pubDate>
-      <enclosure>
-      <category>
+    <description>
+    <pubDate>
+    <enclosure>
+    <category>
 ```
 ### Rendu 1 XML
 

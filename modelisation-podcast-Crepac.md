@@ -189,7 +189,9 @@ Expliquez en quelques lignes comment votre modèle (celui de la base de données
 ### Rendu 1 XML
 
 Produire (rédiger) un flux XML qui va présenter un canal, celui du Crépac, avec un lien vers deux médias, un mp3 et un mp4 de votre choix.
-
+Voici la doc officielle iTunes pour les podcats :
+- De manière générale, avec des exemples [https://help.apple.com/itc/podcasts_connect/#/itcb54353390](https://help.apple.com/itc/podcasts_connect/#/itcb54353390)
+- Le thésaurus associé (et oui, là aussi...) [https://podcasters.apple.com/support/1691-apple-podcasts-categories](https://podcasters.apple.com/support/1691-apple-podcasts-categories)
 #### Il va vous falloir réfléchir à plusieurs questions :
 - Ou sont stockées les médias ?
 - Comment y accéder ?
@@ -197,7 +199,6 @@ Produire (rédiger) un flux XML qui va présenter un canal, celui du Crépac, av
 - Comment décrire le flux RSS ?
 - Comment publier les flux RSS ?
 - Comment lire le flux RSS ?
-
 
 ![Le schema d'un podcast](https://aide.podcloud.fr/wp-content/uploads/2023/02/podcast_how_1.png)
 On aura ici une base pour l'exercice de XML.

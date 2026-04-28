@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mon joli titre</title>
+    <link>https://www.monsite/podcasts/podcast.xml</link>
+    <language>fr-fr</language>
+    <copyright>2026 John Smith</copyright>
+    <itunes:author>John Smith</itunes:author>
+    <description>
+      <![CDATA[Description]]>
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://www.monsite/podcasts/majolie-image.jpg"/>
+    <itunes:category text="Categorie">
+      <itunes:category text="Souscatégorie"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Titre</title>
+      <description>
+        <![CDATA[Description]]>
+      </description>
+      <enclosure 
+        length="498537" 
+        type="audio/mpeg" 
+        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode1.mp3"
+      />
+      <guid>821DD0B2-571D-4DFD-8E11-556E8C1EFE6A</guid>
+      <pubDate>Tue, 18 Sep 2018 01:15:00 +0000</pubDate>
+      <itunes:duration>839</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Titre</title>
+      <description>
+       <![CDATA[Description]]>
+      </description>
+      <enclosure 
+        length="498537" 
+        type="video/mpeg" 
+        url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mpeg"
+      />
+      <guid>EABDA7EE-1AC6-4B60-9E11-6B3F30B72F87</guid>
+      <pubDate>Tue, 14 Aug 2018 01:15:00 +0000</pubDate>
+      <itunes:duration>1399</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -162,7 +162,8 @@ source : [stackoverflow](https://stackoverflow.com/questions/31761047/what-diffe
 Intégrer quelques entrées pour tester.
 Message de Christelle : 
 > On a une chaine publique « Les podcasts du Crepac ». Pour l’instant, il y a en test un fichier son (MP3) « *Conseils de lecture* » de Claire Scopsi autour de l’ouvrage « *La fabrique des normes..* » d’Henri Hudrisier. [https://www.istegroup.com/fr/produit/la-fabrique-des-normes/](https://www.istegroup.com/fr/produit/la-fabrique-des-normes/)
-Permalien du podcast : [https://mediaserver.lecnam.net/permalink/v126d3226faf6xwwloka/iframe/](https://mediaserver.lecnam.net/permalink/v126d3226faf6xwwloka/iframe/)
+Permalien du podcast en mode **player** : [https://mediaserver.lecnam.net/permalink/v126d3226faf6xwwloka/iframe/](https://mediaserver.lecnam.net/permalink/v126d3226faf6xwwloka/iframe/)
+Permalien du fichier mp3 en mode publié (et pas téléchargement) pour le *streaming* [https://mediaserver.lecnam.net/resources/r126d3226faf6kuqlxrqqx2izvq2gi/audio_0_FC5irTtiGL.mp3?st=CQ5Z-fhHhIsNO6S0yvW3ZQ&e=1777560423](https://mediaserver.lecnam.net/resources/r126d3226faf6kuqlxrqqx2izvq2gi/audio_0_FC5irTtiGL.mp3?st=CQ5Z-fhHhIsNO6S0yvW3ZQ&e=1777560423)
 
 ## Lot 3 : Création d'un flux RSS
 ### Comprendre le format XML

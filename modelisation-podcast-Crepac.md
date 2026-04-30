@@ -160,6 +160,8 @@ source : [stackoverflow](https://stackoverflow.com/questions/31761047/what-diffe
 > langue : Norme ISO 639-1, ex **fr**, **en**, sources [Wikipédia](https://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-1), [site de l'ISO](https://www.iso.org/fr/iso-639-language-code.html "Documentation officielle")
 
 Intégrer quelques entrées pour tester.
+> On a une chaine publique « Les podcasts du Crepac ». Pour l’instant, il y a en test un fichier son (MP3) « *Conseils de lecture* » de Claire Scopsi autour de l’ouvrage « *La fabrique des normes..* » d’Henri Hudrisier. [https://www.istegroup.com/fr/produit/la-fabrique-des-normes/](https://www.istegroup.com/fr/produit/la-fabrique-des-normes/)
+Permalien du podcast : [https://mediaserver.lecnam.net/permalink/v126d3226faf6xwwloka/iframe/](https://mediaserver.lecnam.net/permalink/v126d3226faf6xwwloka/iframe/)
 
 ## Lot 3 : Création d'un flux RSS
 ### Comprendre le format XML

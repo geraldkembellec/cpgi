@@ -167,7 +167,7 @@ Permalien du fichier mp3 en mode publié (et pas téléchargement) pour le *stre
 
 ## Lot 3 : Création d'un flux RSS
 ### Comprendre le format XML
-On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) 
+On produira à terme un format XML / RSS de podcast (sur le modèle RSS clasique [iTunes](https://podcasters.apple.com/fr-fr/support/823-podcast-requirements) )
 
 cf: [https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/](https://www.ausha.co/fr/blog/creer-flux-rss-podcast-soi-meme/)
 

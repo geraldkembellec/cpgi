@@ -223,3 +223,17 @@ Aide :
 
 #### [1] Note 1 : ou autre comme [EasyPHP](https://www.easyphp.org/) sur Windows
 #### [2] Note 2 : pour les plus téméraires, on tente un serveur complet en ligne ? : [https://lesbases.anct.gouv.fr/ressources/hebergeur-php-et-mysql-gratuit](https://lesbases.anct.gouv.fr/ressources/hebergeur-php-et-mysql-gratuit)
+
+## Retours :
+Ce qui serait intéressant c'est d'avoir des KPI pour Christelle
+- Le nombre de consultations
+- La segmentation des personnes qui consultent (age, localisation)
+- Le type de consultation (durée, type de média)
+- Proposer des commentaires
+- Savoir sur quelles plateformes c'est consulté
+- Quelles catégories de podcasts sont le plus écoutés
+- Provenance des entrées : d'ou viennent les liens
+- Type d'outil de consultation : Ordi, téléphone, type d'écran, taille...
+- Voir les types et nombres de repartages (Linkedin, médias sociaux)
+
+``` Comment on fait ça ?

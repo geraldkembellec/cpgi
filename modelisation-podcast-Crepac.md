@@ -236,4 +236,12 @@ Ce qui serait intéressant c'est d'avoir des KPI pour Christelle
 - Type d'outil de consultation : Ordi, téléphone, type d'écran, taille...
 - Voir les types et nombres de repartages (Linkedin, médias sociaux)
 
-``` Comment on fait ça ?
+> Comment on fait ça ?
+
+---
+
+> Comment on gère les retours ?
+
+---
+
+> Qu'est ce qu'on en fait ?

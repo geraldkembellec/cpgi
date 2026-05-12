@@ -217,6 +217,8 @@ Présentation de groupe pour Christelle :
 - (4) Comment collecter et intégrer les données dans le système
 - (5) Comment déployer le système et le rendre utilisable dans le cadre du Crépac ?
 
+Aide : 
+![Schéma](Architecture-SI-Podcast.png)
 ### Notes
 
 #### [1] Note 1 : ou autre comme [EasyPHP](https://www.easyphp.org/) sur Windows

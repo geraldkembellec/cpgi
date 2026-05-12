@@ -210,7 +210,7 @@ On aura ici une base pour l'exercice de XML.
 -----
 ### Rendu final : reporting / présentation
 Présentation de groupe pour Christelle :
-5 slides sur 5 groupes :
+1 à 2 slides par groupe sur 5 groupes, 5-7 minutes de présentation avec un partage de temps de parole :
 - (1) Le cahier des charges fonctionnel (ce que nous devons faire, contraintes, normes)
 - (2) Le cahier des charges technique avec quels outils, la modélisation
 - (3) L'architechture du système : le POC, comment sont articulées les données entre leur stockage et leur présentation finale

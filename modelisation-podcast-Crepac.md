@@ -227,17 +227,24 @@ Aide :
 ## Retours :
 Ce qui serait intéressant c'est d'avoir des KPI pour Christelle
 - Le nombre de consultations
-- La segmentation des personnes qui consultent (age, localisation)
-- Le type de consultation (durée, type de média)
-- Proposer des commentaires
-- Savoir sur quelles plateformes c'est consulté
-- Quelles catégories de podcasts sont le plus écoutés
-- Provenance des entrées : d'ou viennent les liens
+- La segmentation des personnes qui consultent (âge, localisation)
+- Le type de consultations (durée, type de média)
+- Proposer de laisser des commentaires
+- Savoir sur quelles plateformes c'est consulté (iTunes...)
+- Quelles catégories de podcasts sont les plus écoutées
+- Provenance des entrées : d'ou viennent les liens vers les podcasts
 - Type d'outil de consultation : Ordi, téléphone, type d'écran, taille...
-- Voir les types et nombres de repartages (Linkedin, médias sociaux)
+- Voir les types et nombres de re-partages (Linkedin, médias sociaux)
 
 > Comment on fait ça ?
-
+  - On regarde les *logs* de apache (provenance de consultation) ou des *plateformes* comme *Google Analytics*
+    * Adresses IP
+    * Horaires de consultation
+    * Type de client podcast / navigateur (Safari --> Mac) / segmentation
+    * Durée de consultation / Durée du podcast
+    * Les rapports d'erreur (404 / 403)
+    * Des analytics de *likes* depuis les plateformes externes
+    * Quelles sont les retours de partage sur les plateformes externes (hors simples podcasts).
 ---
 
 > Comment on gère les retours ?

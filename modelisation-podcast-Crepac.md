@@ -208,6 +208,15 @@ Voici la doc officielle iTunes pour les podcats :
 On aura ici une base pour l'exercice de XML.
 ![flux rss](https://img.ausha.co/cb:-U1P~1ddd7/w:781/h:184/q:mauto/f:best/https://www.ausha.co/wp-content/uploads/2021/05/Code-flux-rss-episode.png)
 -----
+### Rendu final : reporting / présentation
+Présentation de groupe pour Christelle :
+5 slides sur 5 groupes :
+- Le cahier des charges fonctionnel (ce que nous devons faire, contraintes, normes)
+- Le cahier des charges technique avec quels outils, la modélisation
+- L'architechture du système : le POC, comment sont articulées les données entre leur stockage et leur présentation finale
+- Comment collecter et intégrer les données dans le système
+- Comment déployer le système et le rendre utilisable ?
+
 ### Notes
 
 #### [1] Note 1 : ou autre comme [EasyPHP](https://www.easyphp.org/) sur Windows
